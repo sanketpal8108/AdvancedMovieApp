@@ -1,0 +1,11 @@
+D:\Swabhav_Csharp\Project SimpleMoviesApp\SimpleMoviesUsingList\obj\Debug\SimpleMoviesUsingList.csproj.AssemblyReference.cache
+D:\Swabhav_Csharp\Project SimpleMoviesApp\SimpleMoviesUsingList\obj\Debug\SimpleMoviesUsingList.csproj.SuggestedBindingRedirects.cache
+D:\Swabhav_Csharp\Project SimpleMoviesApp\SimpleMoviesUsingList\obj\Debug\SimpleMoviesUsingList.csproj.CoreCompileInputs.cache
+D:\Swabhav_Csharp\Project SimpleMoviesApp\SimpleMoviesUsingList\bin\Debug\SimpleMoviesUsingList.exe.config
+D:\Swabhav_Csharp\Project SimpleMoviesApp\SimpleMoviesUsingList\bin\Debug\SimpleMoviesUsingList.exe
+D:\Swabhav_Csharp\Project SimpleMoviesApp\SimpleMoviesUsingList\bin\Debug\SimpleMoviesUsingList.pdb
+D:\Swabhav_Csharp\Project SimpleMoviesApp\SimpleMoviesUsingList\obj\Debug\SimpleMoviesUsingList.exe
+D:\Swabhav_Csharp\Project SimpleMoviesApp\SimpleMoviesUsingList\obj\Debug\SimpleMoviesUsingList.pdb
+D:\Swabhav_Csharp\Project SimpleMoviesApp\SimpleMoviesUsingList\bin\Debug\MovieClassLibrary.dll
+D:\Swabhav_Csharp\Project SimpleMoviesApp\SimpleMoviesUsingList\bin\Debug\MovieClassLibrary.pdb
+D:\Swabhav_Csharp\Project SimpleMoviesApp\SimpleMoviesUsingList\obj\Debug\SimpleMoviesUsingList.csproj.CopyComplete

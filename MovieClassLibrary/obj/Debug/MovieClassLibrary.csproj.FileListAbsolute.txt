@@ -1,0 +1,6 @@
+D:\Swabhav_Csharp\Project SimpleMoviesApp\SimpleMoviesUsingList\MovieClassLibrary\obj\Debug\MovieClassLibrary.csproj.AssemblyReference.cache
+D:\Swabhav_Csharp\Project SimpleMoviesApp\SimpleMoviesUsingList\MovieClassLibrary\obj\Debug\MovieClassLibrary.csproj.CoreCompileInputs.cache
+D:\Swabhav_Csharp\Project SimpleMoviesApp\SimpleMoviesUsingList\MovieClassLibrary\bin\Debug\MovieClassLibrary.dll
+D:\Swabhav_Csharp\Project SimpleMoviesApp\SimpleMoviesUsingList\MovieClassLibrary\bin\Debug\MovieClassLibrary.pdb
+D:\Swabhav_Csharp\Project SimpleMoviesApp\SimpleMoviesUsingList\MovieClassLibrary\obj\Debug\MovieClassLibrary.dll
+D:\Swabhav_Csharp\Project SimpleMoviesApp\SimpleMoviesUsingList\MovieClassLibrary\obj\Debug\MovieClassLibrary.pdb
